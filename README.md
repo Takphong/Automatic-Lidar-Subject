@@ -5,6 +5,9 @@ Instruction
 It's was currently work in simulation right now. So, we gonna use only "allinonesim" to run
 
 
+I run in VirtualBox btw, it's may have overturn or have an error value anyway if you run in main ubuntu OS.
+
+
 --------------------------------------------------------------------------------------------------
 
 
