@@ -2,7 +2,7 @@ Instruction
 -
 
 
-I was currently work in simulation right now. So, we gonna use only "allinonesim" to run
+It's was currently work in simulation right now. So, we gonna use only "allinonesim" to run
 
 
 --------------------------------------------------------------------------------------------------
@@ -21,7 +21,7 @@ ros2 launch turtlebot3_navigation2 navigation2.launch.py use_sim_time:=True map:
 allinonesim
 
 
-(To run node - no ros2 run anyway because I somehow create package in global and didn't change it's back yet)
+(To run node - no "ros2 run" anyway because I somehow create package in global and didn't change it's back yet)
 
 
 
